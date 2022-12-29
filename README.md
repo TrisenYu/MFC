@@ -9,11 +9,12 @@
   
  //This is a plain project of library-management-system made by MFC.
   
-  Attached a dataset containing 130,000+ books'information.//OffCourse they're all written in Simplified Chinese.
+  Attached a dataset containing 130,000+ books'information.//OfCourse they're all written in Simplified Chinese.
   
   Should,rewrite <the root of the img file> that has been coding in loging.rc,line 79 and line 549//I remember it seems to locate at the position.
   
- Roughly included 2 interface:loging interface,(users and books) management interface. The algorithm can't be worse anymore since the task is limited in 7 days and most of time,the author points to learn how to utilize MFC.Hence the exe is very very simple.
+ Roughly included 2 interface:loging interface,(users and books) management interface. 
+ The algorithm can't be worse anymore since the task is limited in 7 days and most of time,the author points to learn how MFC works.Hence the exe is very very simple.
   
   Any crazy ideas about optimizing this program are highly welcome.Don't need to be hesitated.
   
