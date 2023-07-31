@@ -9,6 +9,12 @@
   
   作者支持任何对优化算法的想法的提出。如果仅是为了求资源而来，请不要直接拿去当作业上交（就算要上交也需要调整调整）。
 
+  ~~应该没有人想要 `git clone` 吧~~ ......
+
+```shell
+git clone https://github.com/TrisenYu/MFC
+```
+
 ```c
 /**
   * This is a pretty plain project of library-management-system implemented by MFC.
